@@ -1,2 +1,4 @@
-# PlantCdMiner
-PlantCdMiner, a web service to predict transcriptional responses to cadmium stress in plants
+# News - PlantCdMiner
+
+The PlantCdMiner coming soon: 2024-4-1
+
