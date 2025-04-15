@@ -1,6 +1,6 @@
 # News - PlantCdMiner
 
-PlantCdMiner website is online. The web server address is https://jasonxu.shinyapps.io/PlantCdMiner/. 2023-04-17
+PlantCdMiner website is online. The web server address is https://jasonxu.shinyapps.io/PlantCdMiner/. 2024-04-17
 
 The PlantCdMiner coming soon: 2024-4-1
 
