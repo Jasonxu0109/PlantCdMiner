@@ -10,7 +10,7 @@ The R codes have been tested successfully on Operating systems:
 
 ## Package installation
 
-If you don't have all the dependancies needed to locally use PlantCdMiner on Windows, run the commands below:  
+If you don't have all the dependencies needed to locally use PlantCdMiner on Windows, run the commands below:  
 
     install.packages(c("devtools", "BiocManager", "tidyverse", "caret", "randomForest", "ROCR", "pROC", "ggplot2", "PRROC", "tidymodels", "Seurat", "patchwork", "ggsci", "readxl", "kmer", "ape", "pheatmap", "ggplotify", "parallel", "venn", "data.table", "ada", "plotrix", "kernlab", "precrec")) ##Installs devtools and the CRAN dependancies
 
