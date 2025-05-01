@@ -20,6 +20,10 @@ If you don't have all the dependancies needed to locally use PlantCdMiner on Win
 
 Once all the dependencies are downloaded and loaded, you can run code for PlantCdMiner.
 
+## Datasets
+
+All data about PlantCdMiner are available in the Zenodo repository (https://doi.org/10.5281/zenodo.15208879). The detailed information about mangroves database MangroveDB is introduced at https://github.com/Jasonxu0109/MangroveDB.
+
 # News - PlantCdMiner
 
 PlantCdMiner website is online. The web server address is https://jasonxu.shinyapps.io/PlantCdMiner/. 2024-04-17
