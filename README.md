@@ -18,7 +18,7 @@ If you don't have all the dependencies needed to locally use PlantCdMiner on Win
 
     devtools::install_github("junjunlab/BioSeqUtils") ##devtools
 
-Once all the dependencies are downloaded and loaded, you can run code for PlantCdMiner.
+Once all the dependencies are downloaded and loaded, you can run code (such as ([Random_Forest.ipynb](https://github.com/Jasonxu0109/PlantCdMiner/blob/main/Random_Forest.ipynb)))for PlantCdMiner.
 
 ## Datasets
 
