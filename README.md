@@ -5,7 +5,7 @@
 * Platform: x86_64-w64-mingw32/x64
 * Running under: Windows 10 x64 (build 19045)
 
-The R codes have been tested successfully on Operating systems: 
+The R codes have been tested successfully on operating systems: 
 * Windows 10
 
 ## Package installation
@@ -22,7 +22,7 @@ Once all the dependencies are downloaded and loaded, you can run code for PlantC
 
 ## Datasets
 
-All data about PlantCdMiner are available in the Zenodo repository (https://doi.org/10.5281/zenodo.15208879). The detailed information about mangroves database MangroveDB is introduced at https://github.com/Jasonxu0109/MangroveDB.
+All data about PlantCdMiner are available in the Zenodo repository (https://doi.org/10.5281/zenodo.15208879). The detailed information about mangroves database MangroveDB is introduced at https://github.com/Jasonxu0109/MangroveDB. Genome assemblies and gene annotation files of A. thaliana (TAIR10), A. marina, H. vulgare (v3), and N. tabacum were downloaded from Phytozome v13 (https://phytozome.jgi.doe.gov/), MangroveDB (https://jasonxu.shinyapps.io/MangroveDB/), and the sol genomics network (SGN) databases (https://solgenomics.net/).
 
 # News - PlantCdMiner
 
