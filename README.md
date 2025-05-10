@@ -1,3 +1,5 @@
+#### Chaoqun Xu<sup>1,5</sup>, Ling Sun<sup>1,5</sup>, Lu-Dan Zhang<sup>1,2,5</sup>, Ze-Jun Guo<sup>1,3</sup>, Ji-Cheng Wang<sup>1</sup>, Li-Han Zhuang<sup>1</sup>, Dong-Na Ma<sup>1,4</sup>, Ling-Yu Song<sup>1</sup>, Jing Li<sup>1</sup>, Qian-Su Ding<sup>1</sup>, Han-Chen Tang<sup>1</sup>, Hai-Lei Zheng<sup>1,*</sup>. Machine learning based prediction by PlantCdMiner and experimental validation of cadmium-responsive genes in plants. (*Journal of Hazardous Materials*; Impact Factor 12.2; accepted ) 2025-05-10
+
 ## Requirements
 
 ## Dependencies 
